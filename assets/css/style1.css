@@ -18,7 +18,7 @@
 .introduction {
     width: 100vw;
     height: 100vh;
-    background-image: url(../img/ren.jpg);
+    background-image: url(https://imgse.com/i/pkQEFgI);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -234,7 +234,7 @@
     border: solid 10px #fff;
     border-radius: 50%;
     box-shadow: 3px 3px 10px rgb(185, 185, 185);
-    background-image: url(../img/sce.jpg);
+    background-image: url(https://imgse.com/i/pkQEPCd);
     background-size: contain;
     animation: rotate360 10s linear infinite;
     margin: 0 auto;
@@ -268,7 +268,7 @@
 /* 第三页测试 */
 .threeTest {
     width: 100vw;
-    background-image: url(../img/fang.jpg);
+    background-image: url(https://imgse.com/i/pkQEi8A);
     height: 100vh;
     background-color: #333;
     display: flex;
